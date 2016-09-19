@@ -5,7 +5,7 @@ The code directory provides everything to perform the implementation of mean-rev
 
 For a matter of size, only the clean file of log-returns appears in the clean data directory. Raw files may be provided upon request.
 
-Other necessary files are included in the various directories, including results plots.
+Other necessary files to generate results are included in the various directories.
 
 
 # Requirements
@@ -52,8 +52,6 @@ Scripts are described in the chronological/logical order they have been used
     * Standalone notebook
 
 # Results
-Some results are already available as plots.
-
 * Full report may be seen at https://www.dropbox.com/s/gxp7s9w5opchv81/Isnardy_2A_application_rapport.pdf?dl=0
 * French abstract may be seen at https://www.dropbox.com/s/9zn0r5ucq04kqzb/Isnardy_2A_application_synthese_FR.pdf?dl=0
 * English abstract may be seen at
