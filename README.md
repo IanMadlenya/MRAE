@@ -44,7 +44,7 @@ Scripts are described in the chronological/logical order they have been used
 * [resultsAnalysis_dataLoading](./code/resultsAnalysis_dataLoading.py)
     * Load hard data that are never edited
     * Normally, no need to edit it (except for model improvement)
-* [resultsAnalysis_neuralNetwork](./code/resultsAnalysis_neuralNetwork.ipynb)
+* [resultsAnalysis_machineLearning](./code/resultsAnalysis_machineLearning.ipynb)
     * Go through neural network results: statistics, plots, correlations, ...
     * Standalone notebook
 * [resultsAnalysis_portfolio](./code/resultsAnalysis_portfolio.ipynb)
@@ -52,6 +52,6 @@ Scripts are described in the chronological/logical order they have been used
     * Standalone notebook
 
 # Results
-* Full report may be seen at https://www.dropbox.com/s/gxp7s9w5opchv81/Isnardy_2A_application_rapport.pdf?dl=0
-* French abstract may be seen at https://www.dropbox.com/s/9zn0r5ucq04kqzb/Isnardy_2A_application_synthese_FR.pdf?dl=0
+* Full report may be seen at 
+* French abstract may be seen at 
 * English abstract may be seen at
