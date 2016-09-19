@@ -52,6 +52,6 @@ Scripts are described in the chronological/logical order they have been used
     * Standalone notebook
 
 # Results
-* Full report may be seen at 
-* French abstract may be seen at 
+* Full report may be seen at https://www.dropbox.com/s/gxp7s9w5opchv81/Isnardy_2A_application_rapport.pdf?dl=0
+* French abstract may be seen at https://www.dropbox.com/s/9zn0r5ucq04kqzb/Isnardy_2A_application_synthese_FR.pdf?dl=0
 * English abstract may be seen at
