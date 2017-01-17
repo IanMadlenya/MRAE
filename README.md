@@ -1,5 +1,5 @@
 # Welcome
-**This 3-month project aims at detecting and utilizing mean-reverting phenomenon with machine learning techniques.**
+**This 3-month project aimed at detecting and utilizing mean-reverting phenomenon with machine learning techniques.**
 
 The code directory provides everything to perform the implementation of mean-reverting portfolios from scratch, meaning from data retrieval, to machine learning utilization, and strategies set up.
 
@@ -7,14 +7,32 @@ For a matter of size, only the clean file of log-returns appears in the clean da
 
 Other necessary files to generate results are included in the various directories.
 
+# Preview of results
+Analysis were based on 151 financial return series from Euro stocks over the period [2004-2016].
+Below is a typical result from returns series reconstruction using autoencoders.
+
+The following Figure displays returns we got using neural network (autoencoder) buy/sell signals, compared to benchmark.
+
+# Complete results
+* English abstract may be seen at
+* French abstract may be seen at
+* Full (French) report may be seen at 
 
 # Requirements
 * Python 2.7 (see https://www.continuum.io/downloads)
 * Keras (see https://keras.io for a step-by-step install guide)
 * Mingw
 
+# Usage
+~~~
+git clone https://github.com/antisrdy/mean-reverting
+~~~
+Now you're able to play with each stack of the model. For further details, please read the following section.
+
 # Scripts description
-Scripts are described in the chronological/logical order they have been used
+Scripts are described in the chronological/logical order they have been used.
+
+One can play with the whole model just running bold scripts (mains)
 * **[marketData](./code/marketData.ipynb)**
     * Describe data formatting process, and choices made in the project regarding raw data
     * Standalone notebook which explains step by step process
@@ -44,14 +62,9 @@ Scripts are described in the chronological/logical order they have been used
 * [resultsAnalysis_dataLoading](./code/resultsAnalysis_dataLoading.py)
     * Load hard data that are never edited
     * Normally, no need to edit it (except for model improvement)
-* [resultsAnalysis_machineLearning](./code/resultsAnalysis_machineLearning.ipynb)
+* **[resultsAnalysis_machineLearning](./code/resultsAnalysis_machineLearning.ipynb)**
     * Go through neural network results: statistics, plots, correlations, ...
     * Standalone notebook
-* [resultsAnalysis_portfolio](./code/resultsAnalysis_portfolio.ipynb)
+* **[resultsAnalysis_portfolio](./code/resultsAnalysis_portfolio.ipynb)**
     * Go through portfolio results: statistics, plots, correlations, ...
     * Standalone notebook
-
-# Results
-* Full report may be seen at https://www.dropbox.com/s/gxp7s9w5opchv81/Isnardy_2A_application_rapport.pdf?dl=0
-* French abstract may be seen at https://www.dropbox.com/s/9zn0r5ucq04kqzb/Isnardy_2A_application_synthese_FR.pdf?dl=0
-* English abstract may be seen at
