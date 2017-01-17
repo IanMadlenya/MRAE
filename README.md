@@ -30,7 +30,7 @@ Scripts are described in the chronological/logical order they have been used
 * [neuralNetwork](./code/neuralNetwork.py)
     * Describe the neural network structure and all related steps (e.g. fitting, score saving, some plots)
     * Normally, no need to edit it (except for model improvement)
-* [neuralNetwork_main](./code/neuralNetwork_main.py)
+* **[neuralNetwork_main](./code/neuralNetwork_main.py)**
     * Train the above network. Parameters may be edited upond needs !
     * As for now, parameters in the script are parameters retained all along the project. They enable to train all the networks. It is easy just to train a single model: just avoid the loop.
 * [portfolio](./code/portfolio.py)
