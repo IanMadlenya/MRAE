@@ -10,9 +10,9 @@ Other necessary files to generate results are included in the various directorie
 # Preview of results
 Analysis were based on 151 financial return series from Euro stocks over the period [2004-2016].
 Below is a typical result from returns series reconstruction using autoencoders.
-
+![alt tag](https://github.com/antisrdy/mean-reverting/blob/master/images/returnsReconstructedCombined.PNG)
 The following Figure displays returns we got using neural network (autoencoder) buy/sell signals, compared to benchmark.
-
+![alt tag](https://github.com/antisrdy/mean-reverting/blob/master/images/returns.png)
 # Complete results
 * English abstract may be seen at
 * French abstract may be seen at
