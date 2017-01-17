@@ -23,10 +23,7 @@ Provided upon request.
 * Mingw
 
 # Usage
-~~~
-git clone https://github.com/antisrdy/mean-reverting
-~~~
-Now you're able to play with each stack of the model. For further details, please read the following section.
+Some scripts are missing on purpose. Available upon request.
 
 # Scripts description
 Scripts are described in the chronological/logical order they have been used.
