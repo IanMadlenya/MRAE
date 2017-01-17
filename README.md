@@ -15,10 +15,10 @@ Other necessary files to generate results are included in the various directorie
 
 # Scripts description
 Scripts are described in the chronological/logical order they have been used
-* [marketData](./code/marketData.ipynb)
+* **[marketData](./code/marketData.ipynb)**
     * Describe data formatting process, and choices made in the project regarding raw data
     * Standalone notebook which explains step by step process
-* [statsDesc](./code/statsDesc.ipynb)
+* **[statsDesc](./code/statsDesc.ipynb)**
     * Quick statistics on returns. Basics + correlations between stocks
     * Standalone notebook
 * [neuralNetwork_utils](./code/neuralNetwork_utils.py)
@@ -36,7 +36,7 @@ Scripts are described in the chronological/logical order they have been used
 * [portfolio](./code/portfolio.py)
     * Describe a portfolio and the useful flow to implement a strategy
     * Normally, no need to edit it (except for model improvement)
-* [portfolio_main](./code/portfolio_main.py)
+* **[portfolio_main](./code/portfolio_main.py)**
     * Run the above portfolio. Parameters may be edited upond needs ! As for now, parameters in the script are the last parameters retained. See the script to know how to tune parameters.
 * [resultsAnalysis_utils](./code/resultsAnalysis_utils.py)
     * A bunch of useful functions to plot results in a fashion way
