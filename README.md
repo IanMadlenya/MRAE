@@ -3,10 +3,6 @@
 
 The code directory provides everything to perform the implementation of mean-reverting portfolios from scratch, meaning from data retrieval, to machine learning utilization, and strategies set up.
 
-For a matter of size, only the clean file of log-returns appears in the clean data directory. Raw files may be provided upon request.
-
-Other necessary files to generate results are included in the various directories.
-
 # Preview of results
 Analysis were based on 151 financial return series from Euro stocks over the period [2004-2016].
 - Below is a typical result from returns series reconstruction using autoencoders.
@@ -14,7 +10,7 @@ Analysis were based on 151 financial return series from Euro stocks over the per
 - The following Figure displays returns we got using neural network (autoencoder) buy/sell signals, compared to benchmark.
 ![alt tag](https://github.com/antisrdy/mean-reverting/blob/master/images/returns.png)
 
-# Complete results
+# Complete results and entire code
 Provided upon request.
 
 # Requirements
@@ -22,12 +18,8 @@ Provided upon request.
 * Keras (see https://keras.io for a step-by-step install guide)
 * Mingw
 
-# Usage
-Some scripts are missing on purpose. Available upon request.
-
 # Scripts description
 Scripts are described in the chronological/logical order they have been used.
-
 One can play with the whole model just running bold scripts (mains)
 * **[marketData](./code/marketData.ipynb)**
     * Describe data formatting process, and choices made in the project regarding raw data
