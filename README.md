@@ -1,14 +1,14 @@
 # Welcome
 **This 3-month project aimed at detecting and utilizing mean-reverting phenomenon with machine learning techniques.**
 
-The code directory provides everything to perform the implementation of mean-reverting portfolios from scratch, meaning from data retrieval, to machine learning utilization, and strategies set up.
+Code provides everything to perform the implementation of mean-reverting portfolios from scratch, meaning from data retrieval, to machine learning utilization, and strategies set up.
 
 # Preview of results
 Analysis were based on 151 financial return series from Euro stocks over the period [2004-2016].
 - Below is a typical result from returns series reconstruction using autoencoders.
-![alt tag](https://github.com/antisrdy/mean-reverting/blob/master/images/returnsReconstructedCombined.PNG)
+![alt tag](https://github.com/antisrdy/MRAE/blob/master/images/returnsReconstructedCombined.PNG)
 - The following Figure displays returns we got using neural network (autoencoder) buy/sell signals, compared to benchmark.
-![alt tag](https://github.com/antisrdy/mean-reverting/blob/master/images/returns.png)
+![alt tag](https://github.com/antisrdy/MRAE/blob/master/images/returns.png)
 
 # Complete results and entire code
 Provided upon request.
