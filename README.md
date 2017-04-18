@@ -10,9 +10,6 @@ Analysis were based on 151 financial return series from Euro stocks over the per
 - The following Figure displays returns we got using neural network (autoencoder) buy/sell signals, compared to benchmark.
 ![alt tag](https://github.com/antisrdy/MRAE/blob/master/images/returns.png)
 
-# Complete results and entire code
-Provided upon request.
-
 # Requirements
 * Python 2.7 (see https://www.continuum.io/downloads)
 * Keras (see https://keras.io for a step-by-step install guide)
